@@ -1,10 +1,10 @@
 // prettier-ignore
 export default [
-    { author: "Dwinurcahyo", quotes: "Whatever happens, keep breathing!" },
-    { author: "Dwinurcahyo", quotes: "Kerja yang semangat!" },
-    { author: "Dwinurcahyo", quotes: "Staysafe, ya!" },
-    { author: "Dwinurcahyo", quotes: "Makan jangan telat." },
-    { author: "Dwinurcahyo", quotes: "Istirahat yang cukup." },
-    { author: "Dwinurcahyo", quotes: "Jangan tidur terlalu larut." },
-    { author: "Dwinurcahyo", quotes: "Kalo ketiduran, text me when ur awake :)" },
+    { author: "Dwi ur fav boy.", quotes: "Whatever happens, keep breathing!" },
+    { author: "Dwi ur fav boy.", quotes: "Kerja yang semangat!" },
+    { author: "Dwi ur fav boy.", quotes: "Staysafe, ya!" },
+    { author: "Dwi ur fav boy.", quotes: "Makan jangan telat." },
+    { author: "Dwi ur fav boy.", quotes: "Istirahat yang cukup." },
+    { author: "Dwi ur fav boy.", quotes: "Jangan tidur terlalu larut." },
+    { author: "Dwi ur fav boy.", quotes: "Kalo ketiduran, text me when ur awake :)" },
 ];
